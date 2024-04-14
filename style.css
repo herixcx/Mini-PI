@@ -4,16 +4,24 @@
 header {
     background-color: #ff009d;
     color: #fff;
-    padding: 40px;
     display: flex;
     flex-direction: column;
-    text-align: center;
-    justify-content: space;
+    
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 }
 
 /* Estilos para o logo */
+
+header a {
+    font-size: 18px;
+    color: #fff;
+    justify-content: space-between;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-decoration: none;
+}
+
 header h1 {
     text-align: center;
     margin: 80; 
