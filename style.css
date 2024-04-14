@@ -32,6 +32,10 @@ header h1 {
 }
 
 /* Estilos para o conteúdo principal */
+
+body {
+    background-color: #fff;
+}
 main {
     padding: 20px;
     text-align: center;
@@ -93,19 +97,13 @@ main p {
     height: 500px;
 }
 
-
-
-
-
-
-.sobre {
-    margin-top: 20px;
-}
-
 /* Estilos para o rodapé */
 footer {
-    background-color: #333;
+    border-radius: 10px;
+    background-color: #ff009d;
     color: #fff;
     text-align: center;
     padding: 10px 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
