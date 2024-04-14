@@ -29,38 +29,49 @@ header h1 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
 }
 
-.logo img {
-    width: 100px; /* Ajuste conforme necessário */
-    height: auto;
-}
-
-nav ul {
-    list-style-type: none;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
-
-nav ul li a:hover {
-    text-decoration: underline;
-}
-
 /* Estilos para o conteúdo principal */
 main {
     padding: 20px;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+}
+
+.sobre-item img {
+    float: left; /* Alinha a imagem à esquerda */
+    margin-right: 20px; /* Adiciona uma margem à direita para separar a imagem do texto */
+}
+
+section {
+    padding: 20px; /* Adiciona um preenchimento interno para dar espaço entre o conteúdo e a borda */
+    margin-bottom: 20px; /* Adiciona margem inferior para separar as seções */
+    background-color: rgb(241, 208, 241);
+}
+
+nav {
+    text-align: center;
+    word-spacing: 10px;
+
+}
+
+main h2 {
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+main p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box {
+    border: 1px solid #ff009d; /* Adiciona uma borda sólida de 1 pixel com a cor preta */
+    padding: 10px; /* Adiciona um preenchimento interno de 10 pixels */
+    background-color: #ff009d;
 }
 
 .banner img {
-    width: 100%; /* Ajuste conforme necessário */
-    height: auto;
-    display: block;
+    width: 500px; 
+    height: 264px;
+    
 }
 
 .destaque {
