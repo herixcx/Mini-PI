@@ -1,0 +1,82 @@
+
+/* Estilos para o cabeçalho */
+
+header {
+    background-color: #ff009d;
+    color: #fff;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+/* Estilos para o logo */
+header h1 {
+    text-align: center;
+    margin: 80; 
+    font-size: 60px; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+}
+
+.logo img {
+    width: 100px; /* Ajuste conforme necessário */
+    height: auto;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos para o conteúdo principal */
+main {
+    padding: 20px;
+}
+
+.banner img {
+    width: 100%; /* Ajuste conforme necessário */
+    height: auto;
+    display: block;
+}
+
+.destaque {
+    margin-top: 20px;
+}
+
+.destaque-item {
+    margin-bottom: 20px;
+}
+
+.destaque-item img {
+    width: 100%; /* Ajuste conforme necessário */
+    height: auto;
+    display: block;
+}
+
+.sobre {
+    margin-top: 20px;
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
