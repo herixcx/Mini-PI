@@ -44,15 +44,16 @@ main {
 }
 
 .sobre-item img {
-    float: left; /* Alinha a imagem à esquerda */
-    margin-right: 20px; /* Adiciona uma margem à direita para separar a imagem do texto */
+    float: left; 
+    margin-right: 20px; 
 }
 
 section {
     border-radius: 10px;
-    padding: 20px; /* Adiciona um preenchimento interno para dar espaço entre o conteúdo e a borda */
-    margin-bottom: 20px; /* Adiciona margem inferior para separar as seções */
+    padding: 20px; 
+    margin-bottom: 20px; /
     background-color: rgb(241, 208, 241);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
 }
 
 nav {
@@ -64,6 +65,7 @@ nav {
 main h2 {
     color: #fff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    
 }
 
 main p {
@@ -76,7 +78,7 @@ main p {
 .box {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
-    padding: 10px; /* Adiciona um preenchimento interno de 10 pixels */
+    padding: 10px; 
     background-color: #ff009d
     
 }
