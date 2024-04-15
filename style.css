@@ -49,11 +49,12 @@ main {
 }
 
 section {
+    background-color: rgb(241, 208, 241);
     border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
     padding: 20px; 
     margin-bottom: 20px; /
-    background-color: rgb(241, 208, 241);
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+    
 }
 
 nav {
