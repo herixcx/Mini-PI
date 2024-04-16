@@ -14,7 +14,7 @@ Página on-line.
 
 [site](https://singular-empanada-eb580b.netlify.app/)
 
-## 📸 Screemshoots
+## 📸 Screenshoots
 
 [Screenshoot 1](https://postimg.cc/MnLqcjSh][img]https://i.postimg.cc/MnLqcjSh/Screenshot-1.png)
 [Screenshoot 2](https://postimg.cc/Js0R459N][img]https://i.postimg.cc/Js0R459N/Screenshot-2.png)
